@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpeisekarteApp</string>
+    <string name="sum">Summe</string>
+    <string name="reset">ZURÜCKSETZEN</string>
+    <string name="amount">Anzahl</string>
+    <string name="drink">Getränk</string>
+    <string name="menu">Speisekarte</string>
+</resources>
